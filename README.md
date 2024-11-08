@@ -1,4 +1,4 @@
-# Collegiate-Spots-
+# Collegiate-Spots-Exploration
 Ongoing Project Exploring Collegiate Sports Data 
 
 ## Project Overview & Objectives: 
@@ -51,7 +51,7 @@ DistinctOpens
 DistinctClicks
 
 ## Dashboards 
-### Ticket Sales Dashboard Description 
+### 1) Ticket Sales Dashboard Description 
 
 This dashboard allows the viewer to filter all visualizations based on the sport, year of the event, and the customer type. This enables us to understand trends for specific sports, certain years, and between different customer types. The different views in the dashboard display the average number of days before an event a ticket was purchased, average amount paid for a single tickets, average purchase total, total revenue generated, total ticket sales, revenue geneterated by each specific sport, the range of ticket prices, price ranges that different customers purchase in, and quantity of ticket sales trends. 
 
