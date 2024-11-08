@@ -1,5 +1,5 @@
 # Collegiate-Spots-Exploration
-Ongoing Project Exploring Collegiate Sports Data using Tableau and Machine Learning Methods
+Ongoing Project Exploring Collegiate Sports Data using Tableau and machine learning methods
 
 ## Project Overview & Objectives: 
 This project aims to uncover trends in a mock dataset for collegiate sports data. Using three different tables, ticket data, donor data, and email data, a comprehensive data analysis project will provide insights on customer types and sports that are driving the most revenue generation, ticket price levels to advertise to different customer segments, a comprehensive analysis of donor trends, and the performance of email campaigns. 
